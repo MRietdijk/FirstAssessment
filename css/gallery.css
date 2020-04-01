@@ -1,0 +1,19 @@
+html {
+    background-color: #0f1114;
+}
+table {
+    width: 100%;
+}
+
+td {
+    flex: 1;
+}
+
+img {
+    height: 100px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    position: relative;
+    z-index: 1;
+}

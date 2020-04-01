@@ -1,0 +1,22 @@
+img {
+    height: 200px;
+    margin: 20px;
+    padding: 5px;
+    border: solid 3px #FB8122;
+    border-radius: 13px;
+}
+
+.div-left {
+    width: 50%;
+    float: left;
+}
+
+.div-right {
+    width: 50%;
+    float: right;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 400;
+}

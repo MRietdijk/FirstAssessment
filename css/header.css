@@ -1,0 +1,11 @@
+header h1 {
+    font-family: 'Dancing Script', cursive;
+}
+
+header .vertical_center {
+    margin-left: 2%;
+}
+
+#header_h1 {
+    align-content: center;
+}

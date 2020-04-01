@@ -1,0 +1,23 @@
+html {
+    background-color: #0f1114;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 400;
+}
+
+table {
+    border: solid #FB8122;
+    width: fit-content;
+    margin: auto;
+}
+
+td {
+    width: 140px;
+    text-align: center;
+}
+
+.no_order {
+    background-color: red;
+}

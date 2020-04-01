@@ -1,0 +1,30 @@
+html {
+    background-color: #0f1114;
+}
+
+.vertical_center {
+    top: 50%;
+    position: relative;
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+}
+
+#homePageBackground {
+    background-image: url("../img/Restaurant.png");
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+
+}
+
+#homePageBackground h1 {
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+    margin: 0;
+    
+}
+
+#content {
+    margin: 20px;
+    text-align: center;
+}

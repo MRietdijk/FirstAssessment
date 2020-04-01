@@ -1,0 +1,26 @@
+html {
+    background-color: #0f1114;
+}
+
+ul{
+    list-style-type: none;
+    width: fit-content;
+    height: 30px;
+    margin: auto;
+    padding: 0;
+    padding-top: 15px;
+}
+
+ul li {
+    display: inline;
+    margin: 4px;
+    padding: 4px;
+    background-color: #1D2228;
+    border-radius: 2px;
+}
+
+iframe {
+    width: 100%;
+    border: none;
+    height: 451px;
+}

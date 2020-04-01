@@ -1,0 +1,20 @@
+html {
+    background-color: #0f1114;
+}
+
+form {
+    width: 400px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 220px;
+    margin: 5px;
+}
+
+#opmerkingInput {
+    height: 75px;
+    width: 550px;
+}

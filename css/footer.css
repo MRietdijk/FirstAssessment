@@ -1,0 +1,10 @@
+footer .vertical_center {
+    float: right;
+    margin-right: 2%;
+}
+
+
+#footer_p {
+    font-size: 10px;
+    color: black;
+}
